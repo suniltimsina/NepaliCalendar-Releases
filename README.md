@@ -21,7 +21,7 @@ You do not need Python or any special software to run this app.
 
 | Tab | What it does |
 |---|---|
-| **Calendar** | BS & AD month view, holiday highlights, custom scrollable year dropdown, click to inject dates globally |
+| **Calendar** | BS & AD month view, holiday highlights, mouse wheel scrollable year & month, click to inject dates globally |
 | **Calculators** | Date math (add/subtract Y/M/D), Age Calculator mode, and date difference |
 | **Ranges** | Generate a list of dates between two dates |
 | **Converter** | BS ↔ AD date conversion |
@@ -30,6 +30,7 @@ You do not need Python or any special software to run this app.
 ### 🚀 Advanced Capabilities
 
 - **Smart Capture (Ctrl+Shift+Q)**: Automatically captures dates or numbers from any active window (like Excel, Word, or browsers), parses them, and routes them to the correct tab in the app.
+- **Desktop Widget**: A sleek, draggable desktop widget that floats on your screen to always display today's date. Double-click it or right-click to instantly copy the date in Nepali or English.
 - **Global Toggle (Ctrl+Shift+D)**: Instantly show or hide the application from anywhere.
 - **Global Key Injection**: Injects dates and numbers directly into any text field or spreadsheet.
 
