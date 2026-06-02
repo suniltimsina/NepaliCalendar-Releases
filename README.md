@@ -12,7 +12,7 @@
 You do not need Python or any special software to run this app. 
 
 1. Go to the [Releases Tab](../../releases/latest) on the right side of this page.
-2. Download **`NepaliCalendarPro_Setup_v1.0.0.exe`**.
+2. Download **`NepaliCalendarPro_Setup_v1.1.0.exe`**.
 3. Double-click to install and enjoy!
 
 ---
