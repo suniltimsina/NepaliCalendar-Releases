@@ -121,4 +121,3 @@ python main.py
 
 MIT License — free to use, modify, and distribute.
 
-This is readme.md file.
