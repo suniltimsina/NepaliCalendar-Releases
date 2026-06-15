@@ -62,7 +62,7 @@ Built with Vibe Coding — but designed to get real work done.  
 </p>
 
 <p align="center">
-  <img src="Numbers%20Screenshot.png" width="45%" />
+  <img src="Screenshots/Numbers%20Screenshot.png" width="45%" />
   <img src="Screenshots/Widget%20Screenshot.png" width="45%" />
 </p>
 
